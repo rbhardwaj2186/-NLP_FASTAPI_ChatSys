@@ -74,3 +74,67 @@ Yolanda_Hybrid_III/
 ├── requirements.txt                  # Dependencies list
 ├── .env                              # Environment variables for API keys
 └── README.md                         # Project documentation
+
+
+```
+
+Getting Started
+Prerequisites
+
+    Python 3.8+
+    FastAPI
+    Hugging Face Transformers
+    TensorFlow/PyTorch
+    SQLite for logging and analysis
+
+Installation
+
+    Clone the Repository:
+
+git clone https://github.com/your-username/Yolanda_Hybrid_III.git
+cd Yolanda_Hybrid_III
+
+Install Dependencies:
+
+pip install -r requirements.txt
+
+Set Up Environment Variables:
+
+    Update .env with API keys for OpenAI and other services.
+
+Run the Application:
+
+    uvicorn app.main:app --reload
+
+API Endpoints
+
+    /query: Handles client queries, passing through the NLP pipeline for summarization and GPT refinement.
+    /feedback: Records feedback, triggering A/B testing analysis based on client satisfaction.
+    /visualization/*: Provides satisfaction and trend visualizations as PNG images for client usage analysis.
+
+Technical Highlights
+1. Pydantic Models
+
+Pydantic models ensure input validation and serialization in FastAPI, enabling robust and consistent data handling. Key models include:
+
+    Query: Validates client queries.
+    ActionPlan: Structures action plans.
+    Feedback: Tracks client satisfaction.
+
+2. NLP Pipeline
+
+The NLP workflow integrates summarization, intent recognition, and topic modeling, leveraging transformers for contextual understanding and response adaptability.
+3. A/B Testing and Visualization
+
+A/B testing identifies satisfaction trends among new vs. returning clients. Seaborn and Matplotlib power visualizations of satisfaction rates and time-series data, aiding client behavior analysis.
+Future Plans
+
+    Enhanced User Personalization: Implement CORS for API integration to serve premium users with on-demand features.
+    Continuous Feedback Integration: Incorporate user feedback loops to refine AI-driven responses based on real-time interactions.
+
+Contributing
+
+We welcome contributions! Please fork the repository and submit a pull request with any improvements or new features.
+License
+
+This project is licensed under the CPR License.
