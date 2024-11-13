@@ -9,6 +9,10 @@ Yolanda Hybrid III combines AI technologies, NLP, and data analytics to refine c
 
 ![image_d3](https://github.com/user-attachments/assets/736a0105-a514-4cbe-824f-7799ade01b63)
 
+Yolanda Hybrid III Workflow Process
+
+![df12](https://github.com/user-attachments/assets/18a79edf-37a9-42a3-82ec-4b8db27ad50c)
+
 
 ### Key Features
 
