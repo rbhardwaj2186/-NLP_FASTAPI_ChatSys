@@ -91,7 +91,7 @@ Installation
 
     Clone the Repository:
 
-git clone https://github.com/your-username/Yolanda_Hybrid_III.git
+git clone https://github.com/rbhardwaj2186/Yolanda_Hybrid_III.git
 cd Yolanda_Hybrid_III
 
 Install Dependencies:
