@@ -1,0 +1,25 @@
+Yolanda_Hybrid_III/
+│
+├── app/
+│   ├── __init__.py                   # Initialize the package
+│   ├── main.py                       # Main FastAPI application with endpoints
+│   ├── ab_testing.py                 # Logic for A/B testing analysis
+│   ├── gpt_integration.py            # Logic to interact with GPT or model for refining responses
+│   ├── logging_config.py             # Setup for logging, including DB handler
+│   ├── nlp.py                        # NLP functionality for summarizing and extracting context
+│   ├── responses.py                  # Store predefined responses
+│   ├── models.py                     # Pydantic models for request/response validation
+│   ├── database_handler.py           # Logic for interacting with SQLite database (logs)
+│   └── visualization.py              # Visualization functions for satisfaction and time-series trends
+│
+├── logs/                             # Store log files and the SQLite database
+│   ├── app_logs.db                   # SQLite database for logs
+│   └── logs_for_analysis.csv         # CSV export of logs for analysis
+│
+├── data/                             # Directory for storing input data files (e.g., logs, datasets)
+│   ├── formatted_chat_log.txt        # Example chat log for summarization and analysis
+│   └── additional_data.csv           # Any other required data
+│
+├── requirements.txt                 # List of project dependencies
+├── .env                              # Environment variables (e.g., API keys)
+└── README.md                         # Project documentation
