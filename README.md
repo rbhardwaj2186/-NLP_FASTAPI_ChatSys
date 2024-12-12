@@ -12,7 +12,8 @@ NLP_FASTAPI_ChatSys combines AI technologies, NLP, and data analytics to refine 
 
 NLP_FASTAPI_ChatSys Workflow Process
 
-![df12](https://github.com/user-attachments/assets/18a79edf-37a9-42a3-82ec-4b8db27ad50c)
+![ddds2](https://github.com/user-attachments/assets/f94a587f-723c-4433-8dd7-12b478993e7b)
+
 
 
 ### Key Features
