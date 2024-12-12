@@ -3,7 +3,8 @@
 NLP_FASTAPI_ChatSys is an AI-driven conversational assistant designed to enhance client interactions through natural language understanding and intelligent response refinement. Leveraging NLP, Machine Learning, and FastAPI, this project integrates data-driven insights with a robust architecture, facilitating high-quality customer service experiences.
 
 ## Project Overview
-![ddds](https://github.com/user-attachments/assets/84a15f48-79bb-489e-9671-788fd4c663dd)
+![ddds1](https://github.com/user-attachments/assets/243600cd-f454-4104-a635-b464169ded21)
+
 
 NLP_FASTAPI_ChatSys combines AI technologies, NLP, and data analytics to refine client interactions across channels. Key functionalities include summarizing chat logs, A/B testing to optimize client satisfaction, and detailed insights into client interaction patterns.
 
