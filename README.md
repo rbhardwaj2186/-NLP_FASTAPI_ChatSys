@@ -1,15 +1,15 @@
-# Yolanda Hybrid III: AI-Powered Conversational Assistant
+# NLP_FASTAPI_CHATSYS: AI-Powered Conversational Assistant
 
-Yolanda Hybrid III is an AI-driven conversational assistant designed to enhance client interactions through natural language understanding and intelligent response refinement. Leveraging NLP, Machine Learning, and FastAPI, this project integrates data-driven insights with a robust architecture, facilitating high-quality customer service experiences.
+NLP_FASTAPI_ChatSys is an AI-driven conversational assistant designed to enhance client interactions through natural language understanding and intelligent response refinement. Leveraging NLP, Machine Learning, and FastAPI, this project integrates data-driven insights with a robust architecture, facilitating high-quality customer service experiences.
 
 ## Project Overview
 ![ddds](https://github.com/user-attachments/assets/84a15f48-79bb-489e-9671-788fd4c663dd)
 
-Yolanda Hybrid III combines AI technologies, NLP, and data analytics to refine client interactions across channels. Key functionalities include summarizing chat logs, A/B testing to optimize client satisfaction, and detailed insights into client interaction patterns.
+NLP_FASTAPI_ChatSys combines AI technologies, NLP, and data analytics to refine client interactions across channels. Key functionalities include summarizing chat logs, A/B testing to optimize client satisfaction, and detailed insights into client interaction patterns.
 
 ![image_d3](https://github.com/user-attachments/assets/736a0105-a514-4cbe-824f-7799ade01b63)
 
-Yolanda Hybrid III Workflow Process
+NLP_FASTAPI_ChatSys Workflow Process
 
 ![df12](https://github.com/user-attachments/assets/18a79edf-37a9-42a3-82ec-4b8db27ad50c)
 
@@ -57,7 +57,7 @@ Yolanda Hybrid III Workflow Process
 ## Directory Structure
 
 ```plaintext
-Yolanda_Hybrid_III/
+NLP_FASTAPI_ChatSys/
 │
 ├── app/
 │   ├── main.py                       # Core FastAPI application with defined endpoints
@@ -91,8 +91,8 @@ Installation
 
     Clone the Repository:
 
-git clone https://github.com/rbhardwaj2186/Yolanda_Hybrid_III.git
-cd Yolanda_Hybrid_III
+git clone https://github.com/rbhardwaj2186/NLP_FASTAPI_ChatSys.git
+cd NLP_FASTAPI_ChatSys
 
 Install Dependencies:
 
@@ -137,4 +137,4 @@ Contributing
 We welcome contributions! Please fork the repository and submit a pull request with any improvements or new features.
 License
 
-This project is licensed under the CPR License.
+This project is licensed under the Private License. No Duplication is Entertained.
